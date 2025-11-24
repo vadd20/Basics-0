@@ -3,7 +3,7 @@ namespace Basics_0.Models;
 public class User
 {
     private int id;
-    public string Name;
+    private string Name;
     private string _email;
 
     public User()
