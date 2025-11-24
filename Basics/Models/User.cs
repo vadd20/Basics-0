@@ -2,7 +2,7 @@ namespace Basics_0.Models;
 
 public class User
 {
-    public int id;
+    private int id;
     public string Name;
     private string _email;
 
