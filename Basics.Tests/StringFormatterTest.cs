@@ -17,7 +17,7 @@ public class StringFormatterTest
         var result = formatter.FormatName(firstName, lastName);
 
         // Assert
-        Assert.Equal("DEFAULT: John Doe", result);
+        Assert.Equal("DEFAULT: John Doasasa", result);
     }
 
     [Fact]
